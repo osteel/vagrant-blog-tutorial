@@ -19,7 +19,7 @@ Edit the `hosts` file of your machine, add:
 
     192.168.68.8    vagrant-test.local.com
 
-Open your browser and visit http://vagrant.local.com
+Open your browser and visit http://vagrant-test.local.com
 
 
 For the full tutorial, please visit [How to use Vagrant for local web development](http://blog.osteel.me/posts/2015/01/25/how-to-use-vagrant-for-local-web-development.html "How to use Vagrant for local web development").
