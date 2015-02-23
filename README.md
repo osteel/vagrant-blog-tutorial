@@ -6,7 +6,7 @@ Repository to illustrate [How to use Vagrant for local web development](http://b
 
 Clone the project:
 
-    git clone git@github.com:OSteEL/vagrant-blog-tutorial.git
+    git clone git@github.com:osteel/vagrant-blog-tutorial.git
 
 Download VirtualBox at [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads "VirtualBox - Downloads") (*"platform packages"*) and install it.  
 Download Vagrant at [https://www.vagrantup.com/downloads.html](https://www.vagrantup.com/downloads.html "Vagrant - Downloads") and install it.
