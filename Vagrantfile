@@ -17,9 +17,4 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # Install stuff
   config.vm.provision :shell, :path => ".provision/bootstrap.sh"
-
-  # uncomment the following lines when having trouble with the box's start up
-  #config.vm.provider :virtualbox do |vb|
-  #  vb.gui = true
-  #end
 end
